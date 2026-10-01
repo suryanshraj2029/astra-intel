@@ -2,20 +2,28 @@
 
 Readme · MD
 <div align="center">
+
 <img src="assets/astra_logo.jpeg" alt="ASTRA INTEL Logo" width="140" />
-# ASTRA INTEL
- 
-### AI-Powered Defence Document Intelligence System
- 
-Upload defence or research PDFs, search them semantically, and get **grounded answers with page-level evidence**.
- 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-LLM-4285F4?logo=google&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-orange)
-![OCR](https://img.shields.io/badge/OCR-Tesseract-green)
-![Status](https://img.shields.io/badge/Status-Active%20Development-success)
- 
+
+<h1>ASTRA INTEL</h1>
+
+<h3>AI-Powered Defence Document Intelligence System</h3>
+
+<p>Upload defence or research PDFs, search them semantically, and get <b>grounded answers with page-level evidence</b>.</p>
+
+<a href="https://astra-intel-bmsit.streamlit.app">
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" />
+</a>
+
+<p><b>Live demo:</b> <a href="https://astra-intel-bmsit.streamlit.app">astra-intel-bmsit.streamlit.app</a></p>
+
+<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Google%20Gemini-LLM-4285F4?logo=google&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Sentence--Transformers-all--MiniLM--L6--v2-orange" alt="Sentence Transformers" />
+<img src="https://img.shields.io/badge/OCR-Tesseract-green" alt="OCR" />
+<img src="https://img.shields.io/badge/Status-Active%20Development-success" alt="Status" />
+
 </div>
 ---
  
