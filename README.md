@@ -11,7 +11,7 @@ Readme · MD
 
 <p>Upload defence or research PDFs, search them semantically, and get <b>grounded answers with page-level evidence</b>.</p>
 
-<a href="https://astra-intel-bmsit.streamlit.app">
+<a href="https://astra-intel.streamlit.app">
   <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" />
 </a>
 
