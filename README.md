@@ -168,7 +168,7 @@ astra-intel/
 ### 1. Clone the repository
  
 ```bash
-git clone https://github.com/<suryanshraj2029>/astra-intel.git
+git clone https://github.com/suryanshraj2029/astra-intel.git
 cd astra-intel
 ```
  
