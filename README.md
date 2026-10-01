@@ -15,7 +15,7 @@ Readme · MD
   <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" />
 </a>
 
-<p><b>Live demo:</b> <a href="https://astra-intel-bmsit.streamlit.app">astra-intel-bmsit.streamlit.app</a></p>
+<p><b>Live demo:</b> <a href="https://astra-intel.streamlit.app">astra-intel-bmsit.streamlit.app</a></p>
 
 <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
