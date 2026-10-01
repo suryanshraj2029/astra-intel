@@ -15,7 +15,7 @@ Readme · MD
   <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" />
 </a>
 
-<p><b>Live demo:</b> <a href="https://astra-intel.streamlit.app">astra-intel-bmsit.streamlit.app</a></p>
+<p><b>Live demo:</b> <a href="https://astra-intel.streamlit.app">astra-intel.streamlit.app</a></p>
 
 <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
@@ -41,7 +41,7 @@ Readme · MD
 - [Design Decisions](#design-decisions)
 - [Known Limitations](#known-limitations)
 - [Security and Data Privacy](#security-and-data-privacy)
-- [Troubleshooting](#troubleshooting)
+- [AI Usage Discloser](#ai-usage-discloser)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Team](#team)
@@ -314,20 +314,26 @@ __pycache__/
 ```
  
 ---
- 
-## Troubleshooting
- 
-| Problem | Likely cause and fix |
-|---|---|
-| `Gemini client is not available` | `GEMINI_API_KEY` is missing or `.env` is not in the working directory. |
-| Summary always shows the local fallback | Model names in `models_to_try` may be invalid or unavailable to your key. List models as shown in [Configuration](#configuration). Check the technical error message. |
-| `429` / `RESOURCE_EXHAUSTED` | Quota exceeded. Wait, reduce reruns, or use a different model or plan. |
-| OCR Pages shows `0` for a scanned PDF | Tesseract is not installed or `TESSERACT_PATH` is wrong for your OS. |
-| `TesseractNotFoundError` | Install Tesseract and make sure it is on `PATH` or set `TESSERACT_PATH`. |
-| Very slow after each question | Extraction, summary and embedding steps are rerunning. Add caching as described in the Roadmap. |
-| Logo not displayed | Place the image at `assets/astra_logo.jpeg`. |
-| First startup is slow | The embedding model is downloading and loading once. |
- 
+## Deployment
+
+ASTRA INTEL is deployed on Streamlit Community Cloud:
+**https://astra-intel.streamlit.app**
+
+---
+
+---
+
+## AI Usage Discloser
+
+-AI Tool used:
+ChatGPT
+
+-Used For:
+- Debugging
+- Understanding APIs
+- Code suggestions
+- Documentation
+
 ---
  
 ## Roadmap
@@ -365,8 +371,7 @@ Developed by the **ASTRA Software Team**.
  
 | Name | Role |
 |---|---|
-| _Your Name_ | _Lead Developer_ |
-| _Teammate_ | _Role_ |
+| Suryansh Raj | _Lead Developer_ |
  
 ---
  
